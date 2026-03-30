@@ -16,7 +16,8 @@ GitHub is a platform for sharing code that combines many useful tools: git (vers
 If you’re thinking about ways to 
 1) code collaboratively, or 
 2) share your code with an online community, or 
-3) create your own website, 
+3) create your own website,
+   
 this introduction is for you.
 
 ## How can I use GitHub?
