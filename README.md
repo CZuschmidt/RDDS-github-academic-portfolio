@@ -1,7 +1,7 @@
 # Getting Started with GitHub
 ## Digital Humanist's Help Desk
 
-##  https://bit.ly/DreamLabBlog
+##  [https://bit.ly/GitHubWrksp](https://bit.ly/GitHubWrksp)
 
 This repository (aka. a repo; a central storage for your project's files, folders, and version history) has all the files and instructions to build a basic academic portfolio website with a home page, a teaching page, a research page, and a link to a CV [PDF].
 
